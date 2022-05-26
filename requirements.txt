@@ -50,7 +50,7 @@ soupsieve==2.0.1
 tornado==6.0.4
 tqdm==4.46.1
 traitlets==4.3.3
-Twisted==20.3.0
+Twisted==22.4.0
 w3lib==1.22.0
 wcwidth==0.2.4
 zope.interface==5.1.0
