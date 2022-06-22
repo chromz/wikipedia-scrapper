@@ -23,7 +23,7 @@ kiwisolver==1.2.0
 lxml==4.5.1
 matplotlib==3.2.1
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 parsel==1.6.0
 parso==0.7.0
 pexpect==4.8.0
